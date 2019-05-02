@@ -4,17 +4,17 @@ ADDED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-ap
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e57cae4315cab68aabbb64634bc16465\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\895fa39288c2c4dedb203437cb52281c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c009a9868faa88429c641fb55d536d9f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ad76d1d62af03672d93e1d175d6048cd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ac07eecbefb02a4525c7dfedb353a556\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b7898303700ab92d22cf5167b8d861a3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5870a9abdcb71b8858fe58c8b3ecc3cb\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\14e199f9ffa7c04b5428d82f0aaff679\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5b5a52ece34a088fbe801033c9a0736a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2160ebe06fbf42e07f78cb0af58b20b\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b190d1c3219d8265df0d7d0157ff0e43\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\f6d4a67eee9f7d9b535faadb3c26b537\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\b33c3633597695515f9281a013073620\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\30aca3291c6d803b06a512ebfac017e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e36e044ea8d3625595860fb1b318f044\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\17f061c855e2cbb2a5bb503068d9ad56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\3595e5ccade14b7fcd7d3e9540f72adf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\a45986cb32342835fadbd41dd814cfd6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e50efab78a5c0d894f9092c8b8cd9c49\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\f1f9641627727b130c167d54b9d3952f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e2c036bcb54bb0eccdde8a5034ca2134\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\9a84ed186cae41b7606c939f70259db0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
@@ -62,28 +62,28 @@ uses-sdk
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e57cae4315cab68aabbb64634bc16465\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e57cae4315cab68aabbb64634bc16465\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\895fa39288c2c4dedb203437cb52281c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\895fa39288c2c4dedb203437cb52281c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c009a9868faa88429c641fb55d536d9f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c009a9868faa88429c641fb55d536d9f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ad76d1d62af03672d93e1d175d6048cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ad76d1d62af03672d93e1d175d6048cd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ac07eecbefb02a4525c7dfedb353a556\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\ac07eecbefb02a4525c7dfedb353a556\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b7898303700ab92d22cf5167b8d861a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b7898303700ab92d22cf5167b8d861a3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5870a9abdcb71b8858fe58c8b3ecc3cb\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\5870a9abdcb71b8858fe58c8b3ecc3cb\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\14e199f9ffa7c04b5428d82f0aaff679\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\14e199f9ffa7c04b5428d82f0aaff679\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5b5a52ece34a088fbe801033c9a0736a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5b5a52ece34a088fbe801033c9a0736a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2160ebe06fbf42e07f78cb0af58b20b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\f2160ebe06fbf42e07f78cb0af58b20b\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b190d1c3219d8265df0d7d0157ff0e43\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b190d1c3219d8265df0d7d0157ff0e43\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\f6d4a67eee9f7d9b535faadb3c26b537\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\f6d4a67eee9f7d9b535faadb3c26b537\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\b33c3633597695515f9281a013073620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\b33c3633597695515f9281a013073620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\30aca3291c6d803b06a512ebfac017e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\30aca3291c6d803b06a512ebfac017e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e36e044ea8d3625595860fb1b318f044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e36e044ea8d3625595860fb1b318f044\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\17f061c855e2cbb2a5bb503068d9ad56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\17f061c855e2cbb2a5bb503068d9ad56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\3595e5ccade14b7fcd7d3e9540f72adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\3595e5ccade14b7fcd7d3e9540f72adf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\a45986cb32342835fadbd41dd814cfd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\a45986cb32342835fadbd41dd814cfd6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e50efab78a5c0d894f9092c8b8cd9c49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e50efab78a5c0d894f9092c8b8cd9c49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\f1f9641627727b130c167d54b9d3952f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\f1f9641627727b130c167d54b9d3952f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e2c036bcb54bb0eccdde8a5034ca2134\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\e2c036bcb54bb0eccdde8a5034ca2134\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\9a84ed186cae41b7606c939f70259db0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Ashley\.gradle\caches\transforms-2\files-2.1\9a84ed186cae41b7606c939f70259db0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Ashley\AndroidStudioProjects\android-fundamentals-starter-apps-v2-master\SimpleCalc\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
