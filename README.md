@@ -1,3 +1,12 @@
+Changes/Lessons Learned for CE 450 Lab 03:
+---------------
+* Learned how to use the Android Studio Debugger and debug issues with code
+* ie: Setting breakpoints, Watch window, modifying variable values while debugging, and other debugging options 
+* Learned how to effectively use Unit Tests to test certain standalone methods in the code
+* Added my own unit tests to test add(), subtract(), divide(), multiply() methods using the AssertThat statement
+
+This section was written by: Ashley Shea
+
 SimpleCalc - Starter Code
 =========================
 
